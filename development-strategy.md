@@ -69,7 +69,7 @@ Add links to each member's github
 
 ### CSS
 
-Style: layout, resizing, responsivity
+Style: icons, resizing, responsivity
 
 ## Finishing Touches
 

@@ -5,20 +5,32 @@ body {
 
 h1 {
     color: gray;
-    margin-left: 3%;
+    text-align: center;
 }
 
 section {
     display: flex;
     margin: 30px;
+    flex-wrap: wrap;
 }
 
 article {
-    padding: 20px;
+    padding: 15px;
+    justify-content: flex-start;
 }
 
 p {
     font-size: 1.2em; 
     color: grey;
+    
+}
+
+i {
+    /* font-size: 2rem; */
+    color: rgb(94, 163, 94);
+}
+
+img {
+    width: 70%;
 }
 
