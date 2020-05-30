@@ -1,16 +1,15 @@
 # Development Strategy
 
-> `name-of-project`
+> `codeit`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+This is team codeit. 
+Interesting facts about team codeit.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://user-images.githubusercontent.com/45841105/83334300-ccf2f700-a2a5-11ea-8e20-d518cf176454.png)
 
 ## 0. Set-Up
 
@@ -19,30 +18,58 @@ __A User can see my initial repository and live demo__
 ### Repo
 
 - Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+- [Source code](https://github.com/LujiAnna/codeit)
+- Write initial, basic [README](README.md)
+- Turn on [GitHub Pages](https://lujianna.github.io/codeit/)
+- Boiler plate files
 
-## 1. __
+## 1. Adding Title
 
-__full user story description__
+__As a site visitor I want to know the team name__
 
 ### Repo
 
-what branch(es) did you work on?
+Branch `title`
 
 ### HTML
 
-what did you change in the HTML and why?
+Add Meta, Title & Header
 
 ### CSS
 
-what did you change in the CSS and why?
+Style the layout & color
 
-## 2. ...
+## 2. Adding team members
 
-...
+__As a site visitor I want to know who are the team members__
 
-...
+### Repo
+
+Branch `members`
+
+### HTML
+
+Add section about members
+
+### CSS
+
+Style: Layout, background, images
+
+## 3. Learning more about each member
+
+__As a site visitor, I would like to learn more about any member__
+
+### Repo
+
+Branch `github`
+
+### HTML
+
+Add links to each member's github
+
+### CSS
+
+Style: layout, resizing, responsivity
 
 ## Finishing Touches
 
