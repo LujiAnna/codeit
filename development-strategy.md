@@ -76,3 +76,4 @@ Style: icons, resizing, responsivity
 - Write final, complete README:
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
+- [Wireframe](wireframe.png)
