@@ -4,7 +4,7 @@
 
 Include a description of what has been changed
 
-## Fixes #(issue)
+Fixes #(issue)
 
 ## Type of change
 
