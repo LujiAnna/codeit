@@ -9,8 +9,8 @@ Interesting facts about team codeit.
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://user-images.githubusercontent.com/45841105/86295827-bf5bc480-bbf7-11ea-8c5e-f2d911d1653c.png)
 
+![wireframe](https://user-images.githubusercontent.com/45841105/86295827-bf5bc480-bbf7-11ea-8c5e-f2d911d1653c.png)
 
 ## 0. Set-Up
 
