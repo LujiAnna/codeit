@@ -9,7 +9,8 @@ Interesting facts about team codeit.
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](https://user-images.githubusercontent.com/45841105/83334300-ccf2f700-a2a5-11ea-8e20-d518cf176454.png)
+![wireframe](https://user-images.githubusercontent.com/45841105/86295827-bf5bc480-bbf7-11ea-8c5e-f2d911d1653c.png)
+
 
 ## 0. Set-Up
 
@@ -59,6 +60,7 @@ Style: Layout, background, images
 
 __As a site visitor, I would like to learn more about any member__
 
+
 ### Repo
 
 Branch `github`
@@ -77,3 +79,65 @@ Style: icons, resizing, responsivity
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
 - [Wireframe](wireframe.png)
+
+## 4. Learning more about each member
+
+__As a site visitor, I would like to learn more about any member__
+
+
+- [ ] Add link to github in their full names
+- [ ] Add their hobbies
+- [ ] Add new members
+
+### Repo
+
+Branch `newmembers`
+
+### HTML
+
+Limit boxes to 4
+
+### CSS
+
+Images should be able to shrink to a given min size
+
+
+## 5. Header
+
+__As a site visitor, I would like to understand the objective of this site__
+
+
+- [ ] Add header
+- [ ] Add logo
+
+### Repo
+
+Branch `header`
+
+### HTML
+
+Limit boxes to 4
+
+### CSS
+
+Images should be able to shrink to a given min size
+
+## 5. Responsivity
+
+__As a site visitor, I would like to view the page in devices of all sizes__
+
+
+- [ ] Tablet
+- [ ] Mobile
+
+### Repo
+
+Branch `responsivity`
+
+### HTML
+
+Limit boxes to 4
+
+### CSS
+
+Images should be able to shrink to a given min size
