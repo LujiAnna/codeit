@@ -116,11 +116,11 @@ Branch `header`
 
 ### HTML
 
-Limit boxes to 4
+use header
 
 ### CSS
 
-Images should be able to shrink to a given min size
+use flexbox for layout instead of positioning and floats
 
 ## 5. Responsivity
 
