@@ -22,6 +22,8 @@ Or just join our team for fun.
 
 ## Inspiration
 [HTML5](https://freehtml5.co)
+[Design](https://developer.android.com/11weeksofandroid)
+
 
 
 ## License
