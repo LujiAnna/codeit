@@ -3,6 +3,12 @@
 Codeit is team #4 at HYF.
 Get to know [who is who](https://lujianna.github.io/codeit/) in Codeit.
 
+
+## Demo
+
+Here is a working [live demo](https://lujianna.github.io/codeit/)
+
+
 ## Technologies
 Project is created with:
 * HTML5
